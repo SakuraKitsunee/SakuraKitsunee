@@ -1,4 +1,5 @@
 # 🤠 howdy partner 🤠
+
 ツ゚ i am 13 years old ツ゚
 
 ツ゚ I really like coding and modding video games ツ゚
@@ -9,4 +10,4 @@
 
 ツ゚ CONTACTS ツ゚
 
-my main email:calebthehufflepuff@gmail.com
+my main email: calebthehufflepuff@gmail.com (this is where you can contact me)
