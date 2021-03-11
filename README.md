@@ -1,7 +1,8 @@
 
 <details>
   <summary>About Me</summary>
-  ツ゚ i am 13 years old ツ゚
+  
+ツ゚ i am 13 years old ツ゚
 
 ツ゚ I really like coding and modding video games ツ゚
 
