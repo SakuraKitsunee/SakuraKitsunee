@@ -12,4 +12,13 @@
 
 ツ゚ CONTACTS ツ゚
 
-my main email: calebthehufflepuff@gmail.com (this is where you can contact me)
+
+
+
+<details>
+  <summary>My Email!</summary>
+  
+  ツ゚ CONTACTS ツ゚
+  
+  My Main Email: calebthehufflepuff@gmail.com
+  
