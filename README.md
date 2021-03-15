@@ -8,8 +8,6 @@
 
 ツ゚ BIG DC & Marvel fan ツ゚
 
-ツ゚ Looking for people who are familiar with prodigy math game for customer support ツ゚
-
 </details>
 
 <details>
