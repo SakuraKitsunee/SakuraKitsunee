@@ -3,8 +3,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UN3N0WNGH0ST&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/Prodigy-Hacking/ProdigyMathGameHacking">Dont Click this if you hate hackin Click it if you like prodigy and hacking</a>
-
 <details>
   <summary>About Me</summary>
   
