@@ -1,4 +1,10 @@
 
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=UN3N0WNGH0ST&show_icons=true&include_all_commits=true&theme=synthwave" alt="UN3N0WNGH0ST's github stats" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UN3N0WNGH0ST&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/Prodigy-Hacking/ProdigyMathGameHacking">Dont Click this if you hate hackin Click it if you like prodigy and hacking</a>
+
 <details>
   <summary>About Me</summary>
   
