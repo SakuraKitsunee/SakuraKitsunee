@@ -3,11 +3,7 @@
 <details>
   <summary>About Me</summary>
   
-ツ゚ i am 14 years old ツ゚
-
-ツ゚ I really like coding and modding video games ツ゚
-
-ツ゚ BIG DC & Marvel fan ツ゚
+  Hi my name is UN3N0WNGH0ST, but you can call me UN3N0WN. i'm 13 years old, and can and will DUNK on you in basketball! 
 
 </details>   
 
