@@ -38,5 +38,6 @@ result
   </details>
 
 
-![UN3N0WNGH0ST's github stats](https://github-readme-stats.vercel.app/api?username=UN3N0WNGH0ST&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=jolly)
+[![UN3N0WNGH0ST's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UN3N0WNGH0ST&layout=compact&theme=jolly)](https://github.com/anuraghazra/github-readme-stats
