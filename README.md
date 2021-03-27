@@ -1,4 +1,7 @@
+![UN3N0WNGH0ST's GitHub stats](https://github-readme-stats.vercel.app/api?username=UN3N0WNGH0ST&show_icons=true&theme=maroongold)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UN3N0WNGH0ST&layout=compact&theme=maroongold)
 
 <details>
   <summary>About Me</summary>
@@ -6,6 +9,19 @@
   Hi my name is UN3N0WNGH0ST, but you can call me UN3N0WN. i'm 13 years old, and can and will DUNK on you in basketball! 
 
 </details>   
+
+<details>
+  <summary>Coding languages I Use!</summary>
+  
+  <ul>
+  <li>JavaScript</li>
+  <li>HTML</li>
+  <li>Python</li>
+  <li>Ruby</li>
+</ul>
+  
+
+</details> 
 
 <details>
   <summary>Contacts</summary>
@@ -33,7 +49,3 @@ result
 
   </details>
 
-![UN3N0WNGH0ST's GitHub stats](https://github-readme-stats.vercel.app/api?username=UN3N0WNGH0ST&show_icons=true&theme=maroongold)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UN3N0WNGH0ST&layout=compact&theme=maroongold)
