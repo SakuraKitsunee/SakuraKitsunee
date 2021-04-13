@@ -35,17 +35,8 @@
 <details>
   <summary>My profile picture</summary>
   
-  ORIGINAL
+   Photos Used:
   
-![10137](https://user-images.githubusercontent.com/75956379/112385918-6e23c180-8cad-11eb-966e-8a8c4ee3b18f.jpeg)
-
-PLUS THIS
- 
- ![light-blue-pink-background-with-colorful-stars-vector](https://user-images.githubusercontent.com/75956379/112385981-83005500-8cad-11eb-87a8-343eebe2907b.jpg)
-
-RESULT
-
-![download (1)](https://user-images.githubusercontent.com/75956379/112385874-5f3d0f00-8cad-11eb-99d7-43c8ca28877d.png)
-
-  </details>
-
+  | Name | Image |
+  | ---- | ----- |
+  | Content | ![75956379](https://user-images.githubusercontent.com/75956379/114578283-9a3dbd00-9c31-11eb-8d6a-5e022f7c5a15.jpeg)
